@@ -1,4 +1,4 @@
-#£ instagram clone
+## instagram clone
 
 instagram clone using laravel 8 and vue js - freecodecamp.org
 
