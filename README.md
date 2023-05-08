@@ -25,6 +25,9 @@ You can create an account, post pictures, follow other users, and like and comme
 - Vue
 - Bootstrap
 
+## screenshot
+![instaclone](https://user-images.githubusercontent.com/41730664/236768804-8c6f4daa-ee1a-4e03-9e80-e57847dde94e.png)
+
 ## Contributing
 
 If you would like to contribute to this project, please fork the repository and submit a pull request. 
